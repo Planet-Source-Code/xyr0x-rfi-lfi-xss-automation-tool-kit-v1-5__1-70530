@@ -1,0 +1,19 @@
+Ah, hey. Well doesn't this GUI look familar! =P
+
+Yeah, it's crappy mimic of Rapid Hacker, but this is just a rough update to my ancient rfi/lfi/xss tool kit, with a few 
+updates and additions. Mainly so far I've written an automation process to the XSS(cross.site.scripting) feature. I did 
+not automate the RFI/LFI because I don't have all the time anymore. If in case you haven't noticed all of the time I've 
+wasted...
+
+No enthusiasm anymore. I guess. Besides this is just a Temporary Hobby.
+
+I haven't implemented the "Crafter" which allows you to output custom strings on the fly. So if you want to go ahead 
+and finish that you can.
+
+This project is over, and was more of a weak-challenge for a few people; because it's always amusing to see who can 
+write the lamest tool of this nature and watch the little ones run off crying and calling me an asshole, dick, et cetera. 
+
+But what can I say. That's a 15 year old.
+
+Regards,
+xyr0x
